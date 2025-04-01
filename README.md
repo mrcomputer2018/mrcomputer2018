@@ -22,26 +22,28 @@ Gosto de mergulhar em projetos que me desafiem a pensar fora da caixa, sempre co
 ## 🛠️ Tech Stack
 
 ### 🚀 Front-end
-- React.js / Next.js  
-- HTML5, CSS3, Tailwind CSS  
+- React.js / Next.js  / themyleaf
+- HTML5, CSS3, Tailwind CSS, Bootstrap CSS
+- Shadcn Ui / Daisy UI
 - JavaScript / TypeScript  
 
 ### 📱 Mobile
 - React Native (com Expo ou CLI)  
 - Integração com APIs REST e bibliotecas nativas.
-- Redux.  
+- Redux / useContext.  
 
 ### 🧠 Back-end
+- Java / Spring boot
 - Node.js / Express.js  
 - TypeScript  
-- Prisma / TypeORM  
+- Prisma / TypeORM / Hibernate
 - PostgreSQL / MySQL  / MongoDB
 
 ### 📦 Outras habilidades
 - Git / GitHub  
 - Docker  
 - CI/CD básico  
-- Firebase  
+- Firebase / Supabase
 - Figma (UI/UX)
 
 ---
