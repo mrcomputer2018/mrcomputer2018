@@ -71,7 +71,7 @@ Gosto de mergulhar em projetos que me desafiem a pensar fora da caixa, sempre co
 
 ## ⚡ Curiosidades
 
-- Apaixonado por design limpo, responsividade e boas práticas de código  
+- Apaixonado por design limpo, responsividade, boas práticas de código e dar aulas de programação.
 - Sempre aprendendo algo novo — atualmente focado em **SaaS com Next.js e PostgreSQL**  
 - Gosto de liderar projetos com organização e clareza, sempre pensando em **entregar valor com qualidade**
 
