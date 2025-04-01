@@ -9,14 +9,12 @@ Versatilidade, criatividade e entrega de valor — unindo os mundos **web e mobi
 
 ## ✨ Sobre mim
 
-### Olá, eu me chamo Marcelo Ribeiro. 👋
-
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-nextjs-rosy.vercel.app/))
 [![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.ribeiro.dev/)
 
 #### Um pouco da minha hístoria
 
-Eu me chamo Marcelo Ribeiro, sou desenvolvedor full-stack e mobile no Rio de Janeiro, Brasil. Versatilidade e criatividade são minhas qualidades mais marcantes: unindo os mundos móvel e web, criando aplicativos e sites que são experiências digitais perfeitas. Vasta experiência em desenvolvimento móvel e web, com ênfase na importância de fornecer soluções integradas para as necessidades digitais dos clientes. Proficiência em tecnologias front-end, back-end e mobile android. Sites responsivos e envolventes, criados com foco na experiência do usuário.
+Sou desenvolvedor full-stack e mobile no Rio de Janeiro, Brasil. Versatilidade e criatividade são minhas qualidades mais marcantes: unindo os mundos móvel e web, criando aplicativos e sites que são experiências digitais perfeitas. Vasta experiência em desenvolvimento móvel e web, com ênfase na importância de fornecer soluções integradas para as necessidades digitais dos clientes. Proficiência em tecnologias front-end, back-end e mobile android. Sites responsivos e envolventes, criados com foco na experiência do usuário.
 Gosto de mergulhar em projetos que me desafiem a pensar fora da caixa, sempre com atenção à performance, à experiência do usuário e à escalabilidade das aplicações.
 
 ---
@@ -56,15 +54,15 @@ Gosto de mergulhar em projetos que me desafiem a pensar fora da caixa, sempre co
 | **PharmaMove** | Gerenciamento de movimentações entre filiais | Node.js, TypeORM, PostgreSQL |
 | **KitchenAcademy** | Plataforma de treinamentos para restaurantes | Next.js, Tailwind CSS, Prisma |
 
-👉 Acesse meu portfólio completo no [meu site](https://seusiteaqui.com)  
+👉 Acesse meu portfólio completo no [meu site](https://portifolio-nextjs-rosy.vercel.app/)  
 
 ---
 
 ## 📫 Como me encontrar
 
 - 🌐 [Site Pessoal](https://portifolio-nextjs-rosy.vercel.app/)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/marcelo-ribeiro-fullstack/))  
-- 📧 Email: seuemail@exemplo.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-ribeiro-fullstack/)  
+- 📧 Email: marcelo.ribeiro@proeja.com  
 - 🐙 Aqui no [GitHub](https://github.com/mrcomputer2018)
 
 ---
