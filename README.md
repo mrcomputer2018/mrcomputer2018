@@ -30,7 +30,7 @@ Gosto de mergulhar em projetos que me desafiem a pensar fora da caixa, sempre co
 ### 📱 Mobile
 - React Native (com Expo ou CLI)  
 - Integração com APIs REST e bibliotecas nativas.
-- Redux / useContext.  
+- Redux / Context API.  
 
 ### 🧠 Back-end
 - Java / Spring boot
