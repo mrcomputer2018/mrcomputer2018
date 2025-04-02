@@ -1,4 +1,4 @@
-# 👨‍💻 Marcelo Ribeiro. Transformar ideias em produtos reais é a minha vocação.
+# Transformar ideias em produtos reais e dar aulas de programação são as minhas vocações.
 
 **Desenvolvedor Full Stack Web & Mobile**  
 Rio de Janeiro, Brasil 🇧🇷  
