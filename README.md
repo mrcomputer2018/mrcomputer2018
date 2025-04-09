@@ -22,7 +22,7 @@ Entre meus projetos de destaque estão:
 
     NextBite Food: app de delivery com React Native e TypeScript, centrado em performance e experiência do usuário.
 
-    PharmaMove: sistema robusto de movimentação entre filiais com Node.js, TypeORM e PostgreSQL.
+    API / APP PharmaMove: sistema robusto de movimentação entre filiais com Node.js, TypeORM e PostgreSQL.
 
     KitchenAcademy: plataforma de treinamento para restaurantes com Next.js e Tailwind, combinando design responsivo e usabilidade.
 
