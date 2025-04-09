@@ -14,11 +14,12 @@ Versatilidade, criatividade e entrega de valor — unindo os mundos **web e mobi
 
 #### Um pouco da minha hístoria
 
-Sou um desenvolvedor full-stack e mobile do Rio de Janeiro movido pela paixão de transformar ideias em produtos reais e compartilhar conhecimento ensinando a profissão que tanto amo. Desde 2018, venho integrando experiências web e mobile com criatividade e foco em impacto, após uma sólida base construída em mais de 15anos na área de infraestrutura.
+Sou um desenvolvedor full-stack e mobile do Rio de Janeiro. Sou movido pela paixão de transformar ideias em produtos reais e compartilhar conhecimento ensinando a profissão que tanto amo. Desde 2018, venho integrando experiências web e mobile com criatividade e foco em impacto, após construir uma sólida base em mais de 15 anos na área de infraestrutura.
 
-Minha trajetória começou com HTML, CSS e JavaScript, evoluindo para tecnologias como React.js, Next.js, React Native, Node.js, Java e Spring Boot. Além de programar, sempre ensinei quem me procurava — o que reforçou minha vocação para colaboração e liderança técnica.
+Minha trajetória começou com HTML, CSS e JavaScript, evoluindo para tecnologias como React.js, Next.js, React Native, Node.js, Java e Spring Boot. Além de programar, sempre ensinei quem me procurava, o que reforçou minha vocação para colaboração e liderança 
+técnica.
 
-Tenho forte presença no GitHub, onde compartilho projetos, contribuo com open-source e colaboro com a comunidade. Meu trabalho é guiado por uma filosofia clara: entregar soluções performáticas, escaláveis e centradas no usuário — sempre com espírito de melhoria contínua e paixão por ensinar.
+Tenho forte presença no GitHub, onde compartilho projetos, contribuo com open-source e colaboro com a comunidade. Meu trabalho é guiado por uma filosofia clara: entregar soluções performáticas, escaláveis e centradas no usuário. Sempre com espírito de melhoria contínua e paixão por ensinar! 
 
 ---
 
