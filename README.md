@@ -18,14 +18,6 @@ Sou um desenvolvedor full-stack e mobile do Rio de Janeiro movido pela paixão d
 
 Minha trajetória começou com HTML, CSS e JavaScript, evoluindo para tecnologias como React.js, Next.js, React Native, Node.js, Java e Spring Boot. Além de programar, sempre ensinei quem me procurava — o que reforçou minha vocação para colaboração e liderança técnica.
 
-Entre meus projetos de destaque estão:
-
-    NextBite Food: app de delivery com React Native e TypeScript, centrado em performance e experiência do usuário.
-
-    API / APP PharmaMove: sistema robusto de movimentação entre filiais com Node.js, TypeORM e PostgreSQL.
-
-    KitchenAcademy: plataforma de treinamento para restaurantes com Next.js e Tailwind, combinando design responsivo e usabilidade.
-
 Tenho forte presença no GitHub, onde compartilho projetos, contribuo com open-source e colaboro com a comunidade. Meu trabalho é guiado por uma filosofia clara: entregar soluções performáticas, escaláveis e centradas no usuário — sempre com espírito de melhoria contínua e paixão por ensinar.
 
 ---
